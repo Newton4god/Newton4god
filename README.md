@@ -1,7 +1,7 @@
 
 Hello there ✌
 <h3> Welcome to my Repo</h3>
-My Name is Sule Isaac I am a  Software Engineer a public speaker and a social media markerter. I develop Advance SEO Web , Mobile &nbsp Desktop applications that helps businesses connect with their Prospective audiences through the internet.
+My Name is Sule Isaac I am a  Software developer a public speaker and a social media markerter. I develop Advance SEO Web , Mobile &nbsp Desktop applications that helps businesses connect with their Prospective audiences through the internet.
 
 * 🌱 Primary coding language: Javascript - Python - PHP.
 * 📫 I’m currently working on my portfolio and also Building a career in Tech.

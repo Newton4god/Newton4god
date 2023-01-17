@@ -5,7 +5,7 @@ My Name is Sule Isaac I am a  Software developer a public speaker and a social m
 
 * 🌱 Primary coding language: Javascript - Python - PHP.
 * 📫 I’m currently working on my portfolio and also Building a career in Tech.
-* 🚀 Daily Drivers: Sublime, Youtube .
+* 🚀 Daily Drivers: VS code, Sublime, Youtube .
 * ⚡ Fun fact:Am a Developer That Loves Talking 😎.
 * 🎉 Hobbies: Coding, Teaching, Reading and Learning.
 * 😄 Pronouns: He/Him
